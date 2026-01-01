@@ -13,7 +13,7 @@ export function LoginForm() {
     return (
         <Card className="w-full">
             <CardHeader>
-                <CardTitle>Welcome Back</CardTitle>
+                <CardTitle>Welcome</CardTitle>
                 <CardDescription>Enter your credentials to access the clinic system.</CardDescription>
             </CardHeader>
             <form action={dispatch}>
